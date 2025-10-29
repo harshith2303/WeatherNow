@@ -19,3 +19,5 @@ This React app that fetches weather data from the Open-Meteo API on user-entered
 GitHub Link: https://github.com/harshith2303/WeatherNow
 
 Vercel Link: https://weather-now-zeta-three.vercel.app/
+
+ChatGPT Link: https://chatgpt.com/share/6901b6fa-1dd4-8007-9eb7-97246cd53168
